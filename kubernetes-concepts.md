@@ -25,4 +25,5 @@
 * Kubernetes Security is based on the 4C's of cloud native security: Cloud, Cluster, Container, and Code
 * Securing the cluster components that are configurable -- Default RBAC
 * Securing the applications which run in the cluster
+* [Kubernetes Security Best Practices](https://github.com/lerndevops/educka/blob/master/security/README.md)
 * Implement RBAC - [know more & Examples](https://github.com/lerndevops/educka/tree/master/security)

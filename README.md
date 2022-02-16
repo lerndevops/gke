@@ -26,11 +26,9 @@ Google Cloud's
 
 ## Thinking About Production GKE Setup?
 
-> Best Practices for operating Containers 
-**https://cloud.google.com/architecture/best-practices-for-operating-containers**
+> [Best Practices for operating Containers](https://cloud.google.com/architecture/best-practices-for-operating-containers)
 
-> Preparing GKE Environment for Production
-**https://cloud.google.com/architecture/prep-kubernetes-engine-for-prod**
+> [Preparing GKE Environment for Production](https://cloud.google.com/architecture/prep-kubernetes-engine-for-prod)
 
 > GKE SLA 
 **https://cloud.google.com/kubernetes-engine/sla**

@@ -22,8 +22,8 @@
 * how to attach volumes/storage to containers - [know more & Examples](https://github.com/lerndevops/educka/tree/master/storage)
 
 ## Security
-* Kubernetes Security is based on the 4C's of cloud native security: Cloud, Cluster, Container, and Code
-* Securing the cluster components that are configurable -- Default RBAC
+* [Kubernetes Security](https://github.com/lerndevops/educka/blob/master/security/README.md) is based on the 4C's of cloud native security
+* Securing the cluster components that are configurable - [RABC](https://github.com/lerndevops/educka/tree/master/security/rbac)
 * Securing the applications which run in the cluster
-* [Kubernetes Security Best Practices](https://github.com/lerndevops/educka/blob/master/security/README.md)
-* Implement RBAC - [know more & Examples](https://github.com/lerndevops/educka/tree/master/security)
+* [Kubernetes Security Best Practices](https://github.com/lerndevops/educka/blob/master/security/Security-Best-Practices.md)
+* [know more & Examples](https://github.com/lerndevops/educka/tree/master/security)

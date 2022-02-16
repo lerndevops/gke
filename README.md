@@ -1,6 +1,11 @@
 ## GKE overview
 > Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines (specifically, Compute Engine instances) grouped together to form a cluster.
 
+## Cluster orchestration with GKE
+** GKE clusters are powered by the **`Kubernetes`** open source cluster management system. 
+** Kubernetes provides the mechanisms through which you interact with your cluster. 
+** You use Kubernetes commands and resources to deploy and manage your applications, perform administration tasks, set policies, and monitor the health of your deployed workloads.
+
 ## GKE Modes of operation
 > The level of flexibility, responsibility, and control that you require for your clusters determines the mode of operation to use in GKE. GKE clusters have two modes of operation to choose from:
 
@@ -9,7 +14,7 @@
 * **`Standard:`** Provides you with node configuration flexibility and full control over managing your clusters and node infrastructure. For clusters created using the Standard mode, you determine the configurations needed for your production workloads, and you pay for the nodes that you use.
 
 ## Kubernetes on Google Cloud
->> When you run a GKE cluster, you also gain the benefit of advanced cluster management features that Google Cloud provides. These include:
+> When you run a GKE cluster, you also gain the benefit of advanced cluster management features that Google Cloud provides. These include:
 
 Google Cloud's 
 * [load-balancing](https://cloud.google.com/compute/docs/load-balancing-and-autoscaling) for Compute Engine instances

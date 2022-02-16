@@ -4,7 +4,7 @@
 * Pod manages the containers inside it
 * we can not create two containers from image in a pod 
 * pod gets an ip / network and is shared by all containers inside it 
-* [know more & Examples] (https://github.com/lerndevops/educka/tree/master/pods)
+* [know more & Examples](https://github.com/lerndevops/educka/tree/master/pods)
 
 
 > [CONTROLLERS](https://github.com/lerndevops/educka/tree/master/controllers)

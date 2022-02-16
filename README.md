@@ -23,3 +23,23 @@ Google Cloud's
 * [Automatic upgrades](https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-upgrades) for your cluster's node software
 * [Node auto-repair](https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-repair) to maintain node health and availability
 * [Logging and monitoring](https://cloud.google.com/stackdriver/docs/solutions/gke) with Google Cloud's operations suite for visibility into your cluster
+
+## Thinking About Production GKE Setup?
+
+> Best Practices for operating Containers 
+**https://cloud.google.com/architecture/best-practices-for-operating-containers**
+
+> Preparing GKE Environment for Production
+**https://cloud.google.com/architecture/prep-kubernetes-engine-for-prod**
+
+> GKE SLA 
+**https://cloud.google.com/kubernetes-engine/sla**
+
+> GKE Pricing
+**https://cloud.google.com/kubernetes-engine/pricing**
+
+> Quotas & Limits 
+**https://cloud.google.com/kubernetes-engine/quotas** 
+
+> Complaince 
+**https://cloud.google.com/security/compliance**

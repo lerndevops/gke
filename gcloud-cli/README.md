@@ -16,11 +16,11 @@
 ## Ubuntu/Debian
 
 * Google Cloud CLI: https://cloud.google.com/sdk/docs/install#deb
-* 
+
 * https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 
 ## Red Hat/Fedora/CentOS
 
 * Google Cloud CLI: https://cloud.google.com/sdk/docs/install#rpm
-* 
+
 * kubectl CLI: https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/

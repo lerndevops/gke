@@ -1,22 +1,27 @@
 ## Create GKE Using Google Cloud CLI
 
-### setup google cloud environment
+### 1) setup google cloud environment
 
-1) Set the default project:
+* Set the default project:
 ```
-gcloud config set project [PROJECT_ID](https://support.google.com/cloud/answer/6158840)
+gcloud config set project [PROJECT_ID]
 ```
+Replace [PROJECT_ID](https://support.google.com/cloud/answer/6158840) with your project ID
 
-2) Set the default zone:
+* Set the default zone:
 ```
-gcloud config set compute/zone [COMPUTE_ZONE](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available)
+gcloud config set compute/zone [COMPUTE_ZONE]
 ```
-3) Set the default region:
-```
-gcloud config set compute/region [COMPUTE_REGION](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available)
-```
+Replace [COMPUTE_ZONE](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available) with your compute zone, such as us-west1-a.
 
-### Create a GKE cluster
+* Set the default region:
+```
+gcloud config set compute/region [COMPUTE_REGION]
+```
+Replace [COMPUTE_REGION](https://cloud.google.com/compute/docs/regions-zones/regions-zones#available) with your compute region, such as us-west1.
+
+
+### 2) Create a GKE cluster
 
 ```
 ### Standard Cluster

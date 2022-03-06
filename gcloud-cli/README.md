@@ -2,25 +2,25 @@
 
 ## macOS
 
-* Google Cloud CLI:  https://cloud.google.com/sdk/docs/install#mac
+* Google Cloud CLI:   https://cloud.google.com/sdk/docs/install#mac
 
-* kubectl CLI: https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
+* kubectl CLI:        https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
 
 
 ## Windows
 
-* Google Cloud CLI: https://cloud.google.com/sdk/docs/install#windows
+* Google Cloud CLI:   https://cloud.google.com/sdk/docs/install#windows
 
-* kubectl CLI: https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+* kubectl CLI:        https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 
 ## Ubuntu/Debian
 
-* Google Cloud CLI: https://cloud.google.com/sdk/docs/install#deb
+* Google Cloud CLI:   https://cloud.google.com/sdk/docs/install#deb
 
-* https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+* kubectl CLI:        https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 
 ## Red Hat/Fedora/CentOS
 
-* Google Cloud CLI: https://cloud.google.com/sdk/docs/install#rpm
+* Google Cloud CLI:   https://cloud.google.com/sdk/docs/install#rpm
 
-* kubectl CLI: https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+* kubectl CLI:        https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/

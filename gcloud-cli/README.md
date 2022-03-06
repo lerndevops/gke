@@ -1,11 +1,11 @@
 # Install Google Cloud CLI & Kubectl Client 
 
 ## macOS
-```
+
 * Google Cloud CLI:  https://cloud.google.com/sdk/docs/install#mac
 
 * kubectl CLI: https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
-```
+
 
 ## Windows
 
@@ -15,8 +15,12 @@
 
 ## Ubuntu/Debian
 
-* https://cloud.google.com/sdk/docs/install#deb
+* Google Cloud CLI: https://cloud.google.com/sdk/docs/install#deb
+* 
+* https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 
 ## Red Hat/Fedora/CentOS
 
-* https://cloud.google.com/sdk/docs/install#rpm
+* Google Cloud CLI: https://cloud.google.com/sdk/docs/install#rpm
+* 
+* kubectl CLI: https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/

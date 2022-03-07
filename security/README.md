@@ -15,7 +15,8 @@
 
 > All API clients must be authenticated, even those that are part of the infrastructure like nodes, proxies, the scheduler, and volume plugins. 
 
-### These clients typically use:  
+### The clients typically can use:
+
 1) `x509 client certificates`
-2) `OIDC` users or groups 
-3) `service accounts`
+2) `OAuth` users or groups from `OIDC` providers
+3) `service accounts` in kubernetes

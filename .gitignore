@@ -1,3 +1,4 @@
 # Google App Engine generated folder
 **/*.docx
 **/*.doc
+.DS_Store

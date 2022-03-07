@@ -4,7 +4,6 @@
 
 > In GKE, `OAuth authentication` is recommended for cluster authentication and is automatically configured for you.
 
-> understanding the kubernetes API Authentication 
 
 ### Use Transport Layer Security (TLS) for all API traffic
 
